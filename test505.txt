@@ -1,3 +1,0 @@
-GET /test.html HTTP/2.0
-Host: localhost:8080
-Connection: close
